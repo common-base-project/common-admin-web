@@ -9,7 +9,7 @@ const adminList = [
   {
     path: '/level',
     component: '#',
-    redirect: '/level/menu1/menu1-1/menu1-1-1',
+    redirect: '/level/menu2',
     name: 'Level',
     meta: {
       title: 'router.level',
